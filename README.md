@@ -1,2 +1,2 @@
 # Demo
-This is Machine Learning Project
+This is a Machine Learning Project
